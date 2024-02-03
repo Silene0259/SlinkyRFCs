@@ -1,0 +1,2 @@
+# SlinkyRFCs
+RFCs for Slinky
